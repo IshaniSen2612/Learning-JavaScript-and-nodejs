@@ -1,2 +1,2 @@
-# Learning nodejs
- Experimenting with nodejs
+# Learning JavasScript and nodejs
+ Experimenting with JavaScript and nodejs
